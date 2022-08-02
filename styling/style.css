@@ -1,0 +1,18 @@
+h1{
+    font-style: italic;
+}
+li{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    border: 2px;
+    padding:.5em;
+    margin:0 auto;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+h3{
+    font-style: italic;
+}
